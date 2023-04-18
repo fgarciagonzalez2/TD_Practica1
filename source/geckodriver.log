@@ -1,0 +1,221 @@
+1681832608117	geckodriver	INFO	Listening on 127.0.0.1:45449
+1681832608663	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegM2Q6x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681832609207	Marionette	INFO	Marionette enabled
+1681832609212	Marionette	INFO	Listening on port 40219
+Read port: 40219
+WebDriver BiDi listening on ws://127.0.0.1:56947
+1681832609373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegM2Q6x/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56947/devtools/browser/59bd5c56-a503-42c6-b233-678856e10e98
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 523 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2354 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1951 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5875 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5402 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6444 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7002 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1899 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 747 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2074 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5764 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1795 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6674 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3097 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1001 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1994 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6443 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5017 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5058 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3037 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 1688 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4747 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5432 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3489 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3151 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 3080 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 348 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 674 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6364 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7432 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5526 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7096 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://baloncestoenvivo.feb.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6199 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681833172886	Marionette	INFO	Stopped listening on port 40219
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
